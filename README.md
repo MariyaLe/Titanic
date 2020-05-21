@@ -1,3 +1,2 @@
 # Titanic
-Log Reg+SVM to predict survival classes
-Titanic comp on Kaggle is a great to begin with on Kaggle. However it has a bunch of ways to solve it and to improve your score. With this notebook I've gained 0.77511 - max with SVM model (kernel=poly). I've tried my own version of recoding continuous variables in categorical ones, however it didn't bring me higher score. I'll continue to work on Titanic one day. But that is for now.
+Logistic Regression+SVM were used to predict survival classes in Titanic comp on Kaggle. This comp is  good to begin with on Kaggle. However, there is a bunch of ways to solve it and to improve the score. With this notebook I've gained 0.77511 - max with SVM model (kernel=poly). I've tried my own version of recoding continuous variables in categorical ones, however it didn't bring me a higher score. I'll continue to work on this project.
